@@ -1,0 +1,6 @@
+@repo.ishan_HostAddress = http://localhost:5117
+
+GET {{repo.ishan_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
